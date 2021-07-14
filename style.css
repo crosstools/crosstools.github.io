@@ -1,22 +1,18 @@
-:root {
-  --main-bg-color: #025;
-}
-
 nav {
-  background-color: var(--main-bg-color);
+  background-color: #025;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   backdrop-filter: saturate(180%) blur(20px);
 }
 
 .btn-outline-main {
-  color: var(--main-bg-color);
-  border-color: var(--main-bg-color);
+  color: #025;
+  border-color: #025;
 }
 
 .btn-outline-main:hover, .btn-outline-main:active {
   color: #fff;
-  background-color: var(--main-bg-color);
-  border-color: var(--main-bg-color);;
+  background-color: #025;
+  border-color: #025;
 }
 
 .btn-outline-main:focus {
