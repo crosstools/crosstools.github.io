@@ -6,4 +6,4 @@ title: Download
 
 Currently, there are no available downloads for CrossTools. Check back later again.
 
-Though, you can build CrossTools from source, but you need the Go compiler: https://github.com/crosstools/crosstools/tree/main/build
+Though, you can build CrossTools from source, but you need the Go compiler: [CrossTools Build from Source](https://github.com/crosstools/crosstools/tree/main/build)
